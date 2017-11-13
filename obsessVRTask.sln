@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obsessVRTask", "obsessVRTask.csproj", "{A7E1410E-3E41-EBAA-1871-4170E37A47C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obsessVRTask.Editor", "obsessVRTask.Editor.csproj", "{886EE6D9-52D4-818E-A33F-430F5D761F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E1410E-3E41-EBAA-1871-4170E37A47C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E1410E-3E41-EBAA-1871-4170E37A47C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E1410E-3E41-EBAA-1871-4170E37A47C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E1410E-3E41-EBAA-1871-4170E37A47C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886EE6D9-52D4-818E-A33F-430F5D761F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886EE6D9-52D4-818E-A33F-430F5D761F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886EE6D9-52D4-818E-A33F-430F5D761F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886EE6D9-52D4-818E-A33F-430F5D761F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

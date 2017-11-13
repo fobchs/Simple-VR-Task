@@ -1,0 +1,44 @@
+[
+    {
+      'productName': 'Silver Shoes',
+      'brandName': 'Obsess',
+      'price': 59.99,
+      'imagePaths': [
+        'Pictures/shoe1-1',
+        'Pictures/shoe1-2'
+      ],
+      'videoPath': 'Silver_High_Heel_Sandals.mp4',
+      'model3DPath': 'Prefabs/women-shoes-1',
+      'radius': 10,
+      'ele': -6,
+      'polar': -7
+    },
+    {
+      'productName': 'Green Shoes',
+      'brandName': 'Macy',
+      'price': 99.99,
+      'imagePaths': [
+        'Pictures/shoe2-1',
+        'Pictures/shoe2-2'
+      ],
+      'videoPath': 'vid_bigbuckbunny.mp4',
+      'model3DPath': 'Prefabs/women-shoes-1',
+      'radius': 10,
+      'ele': 10,
+      'polar': 75
+    },
+    {
+      'productName': 'Red Shoes',
+      'brandName': 'Michael Kors',
+      'price': 67.99,
+      'imagePaths': [
+        'Pictures/shoe3-1',
+        'Pictures/shoe3-2'
+      ],
+      'videoPath': 'vid_bigbuckbunny.mp4',
+      'model3DPath': 'Prefabs/women-shoes-1',
+      'radius': 10,
+      'ele': -2,
+      'polar': -50
+    }
+]
